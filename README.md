@@ -162,7 +162,7 @@ Developed a strong sense of social responsibility, empathy, and the importance o
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/sure-trust/YASHWANTH-T-U-g3-sap-abap/issues/1#issue-4366247079" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/yashwanthg3sap/ALV-Reports/blob/main/csr1.jpeg" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/sure-trust/YASHWANTH-T-U-g3-sap-abap/issues/2#issue-4366260083" alt="Community Service Photo 2" width="30%">
 </div>
 
