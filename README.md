@@ -87,7 +87,7 @@ During this internship, I gained strong practical knowledge in SAP ABAP and its 
 
 </p>
 <p>
-  <a href="https://github.com/sure-trust/YASHWANTH-T-U-g3-sap-abap/blob/fd6de759e6968d84a7f85c679fd1acb47f116e59/Course%20report/REPORT.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/yashwanthg3sap/ALV-Reports/blob/main/REPORT.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
@@ -96,7 +96,7 @@ During this internship, I gained strong practical knowledge in SAP ABAP and its 
  ALV (ABAP List Viewer) Reports in SAP ABAP are used to display data in a structured and user-friendly tabular format. They provide built-in features such as sorting, filtering, and column customization for better data analysis. ALV reports use internal tables as the data source and display results dynamically. They improve readability and allow users to interact with the data efficiently. Overall, ALV reports are widely used for generating clear and flexible reports in SAP applications.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/YASHWANTH-T-U-g3-sap-abap/blob/fd6de759e6968d84a7f85c679fd1acb47f116e59/Course%20report/REPORT.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/yashwanthg3sap/ALV-Reports/blob/main/REPORT.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
@@ -106,7 +106,7 @@ Module Pool Programming in SAP ABAP is used to develop screen-based applications
 In Module Pool Programming, Table Control and Tabstrip Control are UI elements used in screen development. Table Control is used to display and edit multiple rows of data in a structured table format within a screen. It allows users to scroll, select, and modify records easily. Tabstrip Control is used to organize screen content into multiple tabs, improving navigation and usability. Both controls help in building interactive and user-friendly SAP applications.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/YASHWANTH-T-U-g3-sap-abap/blob/fd6de759e6968d84a7f85c679fd1acb47f116e59/Course%20report/REPORT.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/yashwanthg3sap/ALV-Reports/blob/main/REPORT.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
